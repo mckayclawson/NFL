@@ -30,8 +30,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 27,Peyton Manning*+,DEN,36,16,16,400,583,4659,37,11,23,6,0.26,0,0,0,0,,0,QB,311,60,6,27
 28,Chris Johnson,TEN,27,16,15,0,0,0,0,0,276,1243,4.50,6,49,36,232,6.44,0,RB,176,59,12,28
 29,Roddy White,ATL,31,16,15,0,0,0,0,0,0,0,,0,142,92,1351,14.68,7,WR,177,59,10,29
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 30,Reggie Bush,MIA,27,16,16,0,0,0,0,0,227,986,4.34,6,52,35,292,8.34,2,RB,172,55,13,30
 31,Matt Ryan*,ATL,27,16,16,422,615,4719,32,14,34,141,4.15,1,0,0,0,,0,QB,305,54,7,31
 32,Wes Welker*,NWE,31,16,12,0,0,0,0,0,2,20,10.00,0,174,118,1354,11.47,6,WR,171,53,11,32
@@ -62,8 +60,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 57,Lance Moore,NOR,29,15,7,0,0,0,0,0,0,0,,0,104,65,1041,16.02,6,WR,140,22,19,57
 58,Jason Witten*,DAL,30,16,16,0,0,0,0,0,0,0,,0,147,110,1039,9.45,3,TE,122,20,6,58
 59,Steve Johnson,BUF,26,16,16,0,0,0,0,0,0,0,,0,148,79,1046,13.24,6,WR,139,20,20,59
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 60,Cecil Shorts,JAX,25,14,9,0,0,0,0,0,1,-4,-4.00,0,105,55,979,17.80,7,WR,138,19,21,60
 61,Torrey Smith,BAL,23,16,16,0,0,0,0,0,3,9,3.00,0,110,49,855,17.45,8,WR,134,16,22,61
 62,DeAngelo Williams,CAR,29,16,10,0,0,0,0,0,173,737,4.26,5,20,13,187,14.38,2,RB,130,14,23,62
@@ -94,8 +90,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 87,Philip Rivers,SDG,31,16,16,338,527,3606,26,15,27,40,1.48,0,1,0,0,,0,QB,208,,21,
 88,Christian Ponder,MIN,24,16,16,300,483,2935,18,12,60,253,4.22,2,1,1,-15,-15.00,0,QB,193,,22,
 89,Jay Cutler,CHI,29,15,15,255,434,3033,19,14,41,233,5.68,0,0,0,0,,0,QB,185,,23,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 90,Ryan Tannehill,MIA,24,16,16,282,484,3294,12,13,49,211,4.31,2,0,0,0,,0,QB,183,,24,
 91,Colin Kaepernick,SFO,25,13,7,136,218,1814,10,3,63,415,6.59,5,0,0,0,,0,QB,174,,25,
 92,Brandon Weeden,CLE,29,15,15,297,517,3385,14,17,27,111,4.11,0,1,0,-9,,0,QB,166,,26,
@@ -126,8 +120,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 117,Percy Harvin,MIN,24,9,8,0,0,0,0,0,22,96,4.36,1,85,62,677,10.92,3,WR,99,,42,
 118,Ryan Mathews,SDG,25,12,9,0,0,0,0,0,184,707,3.84,1,56,39,252,6.46,0,RB,98,,30,
 119,Andre Brown,NYG,26,10,2,0,0,0,0,0,73,385,5.27,8,17,12,86,7.17,0,RB,97,,31,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 120,Donnie Avery,IND,28,16,15,0,0,0,0,0,4,9,2.25,0,124,60,781,13.02,3,TE,97,,13,
 121,Dwayne Bowe,KAN,28,13,12,0,0,0,0,0,0,0,,0,114,59,801,13.58,3,WR,96,,45,
 122,Antonio Gates,SDG,32,15,15,0,0,0,0,0,0,0,,0,80,49,538,10.98,7,TE,96,,14,
@@ -158,8 +150,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 147,Danny Amendola,STL,27,11,8,0,0,0,0,0,2,8,4.00,0,101,63,666,10.57,3,WR,83,,56,
 148,Bilal Powell,NYJ,24,14,2,0,0,0,0,0,110,437,3.97,4,36,17,140,8.24,0,RB,82,,39,
 149,Jonathan Dwyer,PIT,23,13,6,0,0,0,0,0,156,623,3.99,2,25,18,106,5.89,0,RB,81,,41,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 150,DeSean Jackson,PHI,26,11,11,0,0,0,0,0,3,-7,-2.33,0,87,45,700,15.56,2,WR,81,,58,
 151,Fred Jackson,BUF,31,10,8,0,0,0,0,0,115,437,3.80,3,42,34,217,6.38,1,RB,81,,40,
 152,Andrew Hawkins,CIN,26,14,2,0,0,0,0,0,6,30,5.00,0,80,51,533,10.45,4,WR,80,,59,
@@ -190,8 +180,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 177,Josh Morgan,WAS,27,16,15,0,1,0,0,0,3,25,8.33,0,73,48,510,10.63,2,WR,66,,66,
 178,Jackie Battle,SDG,29,16,5,0,0,0,0,0,95,311,3.27,3,15,15,108,7.20,1,RB,66,,50,
 179,Michael Floyd,ARI,23,16,3,0,0,0,0,0,0,0,,0,86,45,562,12.49,2,WR,66,,65,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 180,Joel Dreessen,DEN,30,16,15,0,0,0,0,0,0,0,,0,58,41,356,8.68,5,TE,66,,27,
 181,Emmanuel Sanders,PIT,25,16,7,0,0,0,0,0,1,4,4.00,0,75,44,626,14.23,1,WR,65,,67,
 182,Jason Avant,PHI,29,14,6,0,0,0,0,0,0,0,,0,76,53,648,12.23,0,WR,65,,68,
@@ -222,8 +210,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 207,Beanie Wells,ARI,24,8,7,0,0,0,0,0,88,234,2.66,5,1,1,24,24.00,0,RB,54,,59,
 208,Kendall Hunter,SFO,24,11,0,0,0,0,0,0,72,371,5.15,2,12,9,60,6.67,0,RB,53,,62,
 209,Rashad Jennings,JAX,27,10,6,0,0,0,0,0,101,283,2.80,2,26,19,130,6.84,0,RB,53,,61,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 210,James Casey,HOU,28,16,9,0,0,0,0,0,1,6,6.00,0,45,34,330,9.71,3,RB,52,,63,
 211,Tony Moeaki,KAN,25,15,14,0,0,0,0,0,0,0,,0,56,33,453,13.73,1,TE,51,,31,
 212,Earl Bennett,CHI,25,12,4,0,0,0,0,0,0,0,,0,49,29,375,12.93,2,WR,50,,82,
@@ -254,8 +240,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 237,Rob Housler,ARI,24,15,9,0,0,0,0,0,0,0,,0,68,45,417,9.27,0,TE,42,,35,
 238,Brandon Bolden,NWE,22,10,0,0,0,0,0,0,56,274,4.89,2,2,2,11,5.50,0,RB,41,,70,
 239,Cedric Benson,GNB,30,5,5,0,0,0,0,0,71,248,3.49,1,15,14,97,6.93,0,RB,41,,71,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 240,Louis Murphy,CAR,25,16,5,0,0,0,0,0,1,3,3.00,0,61,25,336,13.44,1,TE,40,,37,
 241,Montell Owens,JAX,28,13,4,0,0,0,0,0,42,209,4.98,1,10,8,113,14.13,0,RB,40,,73,
 242,Cedric Peerman,CIN,26,14,1,0,0,0,0,0,36,258,7.17,1,9,9,85,9.44,0,RB,40,,72,
@@ -286,8 +270,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 267,Delone Carter,IND,25,10,0,0,0,0,0,0,32,122,3.81,3,2,1,13,13.00,0,RB,32,,87,
 268,Damian Williams,TEN,24,13,2,0,0,0,0,0,0,0,,0,45,30,324,10.80,0,WR,32,,99,
 269,Robert Meachem,SDG,28,15,3,0,0,0,0,0,1,-6,-6.00,0,32,14,207,14.79,2,WR,32,,100,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 270,Armon Binns,2TM,23,11,5,0,0,0,0,0,0,0,,0,40,24,277,11.54,1,WR,32,,101,
 271,Eddie Royal,SDG,26,10,2,0,0,0,0,0,3,22,7.33,0,44,23,234,10.17,1,WR,32,,102,
 272,Marvin Jones,CIN,22,11,5,0,0,0,0,0,3,47,15.67,0,32,18,201,11.17,1,WR,31,,105,
@@ -318,8 +300,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 297,Brandon Tate,CIN,25,16,3,0,0,0,0,0,1,0,0.00,0,25,13,211,16.23,1,WR,25,,115,
 298,Jerome Simpson,MIN,26,12,10,0,0,0,0,0,0,0,,0,52,26,274,10.54,0,WR,25,,113,
 299,Mohamed Massaquoi,CLE,26,9,5,0,0,0,0,0,0,0,,0,33,17,254,14.94,0,WR,25,,114,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 300,Vonta Leach*+,BAL,31,16,13,0,0,0,0,0,9,32,3.56,1,24,21,143,6.81,0,RB,24,,99,
 301,Clyde Gates,NYJ,26,11,2,0,0,0,0,0,1,12,12.00,0,33,16,224,14.00,0,WR,24,,116,
 302,LaVon Brazill,IND,23,15,0,0,0,0,0,0,0,0,,0,24,11,186,16.91,1,WR,23,,120,
@@ -350,8 +330,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 327,Tyrod Taylor,BAL,23,7,0,17,29,179,0,1,14,73,5.21,1,0,0,0,,0,QB,18,,42,
 328,Devin Aromashodu,MIN,28,15,0,0,0,0,0,0,0,0,,0,22,11,182,16.55,0,WR,18,,130,
 329,Tandon Doss,BAL,23,14,0,0,0,0,0,0,0,0,,0,17,7,123,17.57,1,WR,18,,129,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 330,Joe McKnight,NYJ,24,15,0,0,0,0,0,0,30,179,5.97,0,2,1,18,18.00,0,RB,18,,108,
 331,Byron Leftwich,PIT,32,2,1,25,53,272,0,1,1,31,31.00,1,0,0,0,,0,QB,18,,43,
 332,Ryan Williams,ARI,22,5,3,0,0,0,0,0,58,164,2.83,0,10,7,44,6.29,0,RB,17,,111,
@@ -382,8 +360,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 357,Steve Smith,STL,27,9,2,0,0,0,0,0,0,0,,0,25,14,131,9.36,0,WR,13,,136,
 358,Jeff King,ARI,29,16,12,0,0,0,0,0,0,0,,0,29,17,129,7.59,0,TE,13,,52,
 359,Lee Smith,BUF,25,16,7,0,0,0,0,0,0,0,,0,4,4,13,3.25,2,TE,13,,50,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 360,Cole Beasley,DAL,23,10,0,0,0,0,0,0,0,0,,0,24,15,128,8.53,0,WR,13,,137,
 361,Ryan Lindley,ARI,23,7,4,89,171,752,0,7,4,7,1.75,0,0,0,0,,0,QB,13,,48,
 362,Lawrence Vickers,DAL,29,16,6,0,0,0,0,0,3,11,3.67,0,15,13,104,8.00,0,RB,12,,123,
@@ -414,8 +390,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 387,Todd Heap,ARI,32,3,1,0,0,0,0,0,0,0,,0,13,8,94,11.75,0,TE,9,,57,
 388,Matt Moore,MIA,28,10,0,11,19,131,1,0,5,-3,-0.60,0,6,0,0,,0,WR,9,,148,
 389,Richard Murphy,JAX,26,5,0,0,0,0,0,0,23,92,4.00,0,1,0,0,,0,RB,9,,129,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 390,Colt McCoy,CLE,26,3,0,9,17,79,1,0,4,15,3.75,0,0,0,0,,0,QB,9,,53,
 391,Dorin Dickerson,BUF,24,12,0,0,0,0,0,0,1,-8,-8.00,0,15,9,117,13.00,0,RB,9,,130,
 392,Daniel Fells,NWE,29,13,4,0,0,0,0,0,0,0,,0,10,4,85,21.25,0,WR,9,,149,
@@ -446,8 +420,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 417,Chris Pressley,CIN,26,14,7,0,0,0,0,0,0,0,,0,3,1,1,1.00,1,RB,6,,139,
 418,Michael Preston,TEN,23,4,0,0,0,0,0,0,0,0,,0,6,5,59,11.80,0,WR,6,,160,
 419,Lex Hilliard,2TM,28,14,9,0,0,0,0,0,9,33,3.67,0,9,4,23,5.75,0,RB,6,,140,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 420,Lavelle Hawkins,TEN,26,7,1,0,0,0,0,0,0,0,,0,11,5,62,12.40,0,WR,6,,159,
 421,Cyrus Gray,KAN,23,10,0,0,0,0,0,0,7,44,6.29,0,3,2,18,9.00,0,RB,6,,138,
 422,Ryan Whalen,CIN,23,9,0,0,0,0,0,0,0,0,,0,12,7,53,7.57,0,WR,5,,162,
@@ -478,8 +450,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 447,Taiwan Jones,OAK,24,14,0,0,0,0,0,0,6,21,3.50,0,2,2,11,5.50,0,RB,3,,149,
 448,Travaris Cadet,NOR,23,13,0,0,0,0,0,0,1,5,5.00,0,8,5,44,8.80,0,RB,3,,150,
 449,Matt Leinart,OAK,29,2,0,16,33,115,0,1,0,0,,0,0,0,0,,0,QB,3,,55,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 450,Johnny White,2TM,24,7,0,0,0,0,0,0,8,34,4.25,0,,0,0,,0,RB,3,,148,
 451,Mike McNeill,STL,24,14,1,0,0,0,0,0,0,0,,0,7,4,31,7.75,0,TE,3,,74,
 452,Javon Ringer,TEN,25,2,0,0,0,0,0,0,2,14,7.00,0,5,3,12,4.00,0,RB,3,,151,
@@ -510,8 +480,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 477,Dan Orlovsky,TAM,29,1,0,4,7,51,0,0,0,0,,0,0,0,0,,0,QB,2,,60,
 478,Bruce Gradkowski,CIN,29,3,0,5,11,65,0,0,4,-2,-0.50,0,0,0,0,,0,QB,2,,56,
 479,Derek Anderson,CAR,29,2,0,4,4,58,0,0,0,0,,0,0,0,0,,0,QB,2,,57,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 480,Kellen Winslow,NWE,29,1,0,0,0,0,0,0,0,0,,0,2,1,12,12.00,0,TE,1,,82,
 481,Keiland Williams,2TM,26,14,0,0,0,0,0,0,2,3,1.50,0,,2,9,4.50,0,RB,1,,156,
 482,Shaun Chapas,DET,24,3,1,0,0,0,0,0,0,0,,0,2,1,6,6.00,0,RB,1,,166,
@@ -542,8 +510,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 507,Trent Edwards,PHI,29,1,0,2,2,14,0,0,0,0,,0,1,0,0,,0,QB,1,,63,
 508,Jonathan Grimes,3TM,23,11,2,0,0,0,0,0,2,6,3.00,0,,2,7,3.50,0,RB,1,,155,
 509,Chris Gronkowski,DEN,26,14,0,0,0,0,0,0,0,0,,0,1,1,11,11.00,0,RB,1,,158,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 510,Matt Asiata,MIN,25,16,0,0,0,0,0,0,3,9,3.00,0,1,1,2,2.00,0,RB,1,,157,
 511,Da'Rel Scott,NYG,24,4,0,0,0,0,0,0,6,9,1.50,0,0,0,0,,0,RB,1,,159,
 512,Corey McIntyre,BUF,33,16,3,0,0,0,0,0,0,0,,0,2,1,9,9.00,0,RB,1,,160,
@@ -574,8 +540,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 537,Lance Long,DET,27,,,0,0,0,0,0,0,0,,0,,0,0,,0,,,,210,
 538,Josh Bellamy,KAN,23,3,0,0,0,0,0,0,0,0,,0,0,0,0,,0,WR,,,225,
 539,Matt Slater*,NWE,27,16,0,0,0,0,0,0,0,0,,0,0,0,0,,0,WR,,,217,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 540,Caleb Hanie,DEN,27,,,0,0,0,0,0,0,0,,0,,0,0,,0,,,,76,
 541,James-Michael Johnson,CLE,23,11,8,0,0,0,0,0,0,0,,0,0,0,0,,0,QB,,,73,
 542,Tarvaris Jackson,BUF,29,0,0,0,0,0,0,0,0,0,,0,,0,0,,0,QB,,,69,
@@ -606,8 +570,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 567,Dennis Roland,CIN,29,16,2,0,0,0,0,0,0,0,,0,0,0,0,,0,TE,,,108,
 568,Nate Solder,NWE,24,16,16,0,0,0,0,0,0,0,,0,0,0,0,,0,TE,,,115,
 569,Richie Brockel,CAR,26,16,0,0,0,0,0,0,0,0,,0,1,0,0,,0,TE,,,123,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 570,Richard Quinn,CIN,26,,,0,0,0,0,0,0,0,,0,,0,0,,0,,,,106,
 571,Kyle Miller,2TM,24,1,0,0,0,0,0,0,0,0,,0,,0,0,,0,TE,,,101,
 572,Will Yeatman,MIA,24,4,0,0,0,0,0,0,0,0,,0,,0,0,,0,TE,,,124,
@@ -638,8 +600,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 597,Billy Bajema,BAL,30,8,1,0,0,0,0,0,0,0,,0,1,0,0,,0,TE,,,95,
 598,Kory Sperry,ARI,27,1,0,0,0,0,0,0,0,0,,0,,0,0,,0,TE,,,117,
 599,Josh Vaughan,ATL,26,,,0,0,0,0,0,0,0,,0,,0,0,,0,,,,192,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 600,Michael Smith,TAM,24,1,0,0,0,0,0,0,0,0,,0,0,0,0,,0,RB,,,186,
 601,Vincent Brown,SDG,23,,,0,0,0,0,0,0,0,,0,,0,0,,0,,,,197,
 602,Lonyae Miller,BAL,24,,,0,0,0,0,0,0,0,,0,,0,0,,0,,,,172,
@@ -670,8 +630,6 @@ Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantP
 627,Antone Smith,ATL,27,13,0,0,0,0,0,0,0,0,,0,1,0,0,,0,RB,,,179,
 628,Emil Igwenagu,PHI,23,3,1,0,0,0,0,0,0,0,,0,0,0,0,,0,RB,,,182,
 629,Brandon Saine,GNB,24,6,0,0,0,0,0,0,0,0,,0,0,0,0,,0,RB,,,175,
-,,,,Games,Games,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Fantasy,Fantasy,Fantasy,Fantasy,Fantasy
-Rk,Player,Tm,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,FantPos,FantPt,VBD,PosRank,OvRank
 630,Terrance Ganaway,STL,24,3,0,0,0,0,0,0,0,0,,0,,0,0,,0,RB,,,195,
 631,Devin Moore,DET,27,,,0,0,0,0,0,0,0,,0,,0,0,,0,,,,176,
 632,Ryan Torain,NYG,26,2,0,0,0,0,0,0,0,0,,0,0,0,0,,0,RB,,,185,

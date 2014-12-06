@@ -29,7 +29,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 27,Heath Miller*,PIT,30,15,15,101,71,816,11.5,8,43,4.7,54.4,0
 28,Jeremy Maclin,PHI,24,15,15,122,69,857,12.4,7,70,4.6,57.1,1
 29,Greg Olsen,CAR,27,16,16,104,69,843,12.2,5,47,4.3,52.7,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 30,Miles Austin,DAL,28,16,15,119,66,943,14.3,6,49,4.1,58.9,1
 31,Antonio Brown,PIT,24,13,10,106,66,787,11.9,5,60,5.1,60.5,4
 32,Anquan Boldin,BAL,32,15,15,112,65,921,14.2,4,43,4.3,61.4,0
@@ -60,7 +59,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 57,LeSean McCoy,PHI,24,12,12,67,54,373,6.9,3,36,4.5,31.1,4
 58,Jason Avant,PHI,29,14,6,76,53,648,12.2,0,39,3.8,46.3,1
 59,Greg Little,CLE,23,16,16,94,53,647,12.2,4,43,3.3,40.4,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 60,Hakeem Nicks,NYG,24,13,11,100,53,692,13.1,3,50,4.1,53.2,0
 61,Jacquizz Rodgers,ATL,22,16,0,59,53,402,7.6,1,32,3.3,25.1,0
 62,Kyle Rudolph*,MIN,23,16,16,93,53,493,9.3,9,29,3.3,30.8,0
@@ -91,7 +89,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 87,Michael Floyd,ARI,23,16,3,86,45,562,12.5,2,53,2.8,35.1,1
 88,Rob Housler,ARI,24,15,9,68,45,417,9.3,0,33,3.0,27.8,0
 89,DeSean Jackson,PHI,26,11,11,87,45,700,15.6,2,77,4.1,63.6,1
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 90,Brandon Stokley,DEN,36,15,9,58,45,544,12.1,5,38,3.0,36.3,0
 91,Golden Tate,SEA,24,15,15,68,45,688,15.3,7,51,3.0,45.9,1
 92,Jared Cook,TEN,25,13,5,73,44,523,11.9,4,61,3.4,40.2,1
@@ -122,7 +119,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 117,Rod Streater,OAK,24,16,2,74,39,584,15.0,3,64,2.4,36.5,1
 118,Pierre Thomas,NOR,28,15,4,53,39,354,9.1,1,36,2.6,23.6,0
 119,Harry Douglas,ATL,28,15,1,59,38,396,10.4,1,37,2.5,26.4,1
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 120,Leonard Hankerson,WAS,24,16,5,57,38,543,14.3,3,68,2.4,33.9,0
 121,Steven Jackson,STL,29,16,16,53,38,321,8.4,0,22,2.4,20.1,0
 122,Zach Miller,SEA,27,16,15,53,38,396,10.4,3,30,2.4,24.8,1
@@ -153,7 +149,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 147,Randy Moss,SFO,35,16,2,50,28,434,15.5,3,55,1.8,27.1,1
 148,Chaz Schilens,NYJ,27,15,6,41,28,289,10.3,2,25,1.9,19.3,1
 149,Tiquan Underwood,TAM,25,14,3,55,28,425,15.2,2,62,2.0,30.4,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 150,Nate Burleson,DET,31,6,5,43,27,240,8.9,2,26,4.5,40.0,0
 151,Mike Tolbert,CAR,27,16,5,39,27,268,9.9,0,26,1.7,16.8,0
 152,Coby Fleener,IND,24,12,10,48,26,281,10.8,2,26,2.2,23.4,0
@@ -184,7 +179,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 177,Jarius Wright,MIN,23,7,1,36,22,310,14.1,2,65,3.1,44.3,0
 178,Ed Dickson,BAL,25,13,11,33,21,225,10.7,0,40,1.6,17.3,0
 179,Julian Edelman,NWE,26,9,3,32,21,235,11.2,3,56,2.3,26.1,1
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 180,Stephen Hill,NYJ,21,11,8,47,21,252,12.0,3,33,1.9,22.9,0
 181,Vonta Leach*+,BAL,31,16,13,24,21,143,6.8,0,18,1.3,8.9,0
 182,Knowshon Moreno,DEN,25,9,6,26,21,167,8.0,0,26,2.3,18.6,1
@@ -215,7 +209,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 207,Jerricho Cotchery,PIT,30,14,2,27,17,205,12.1,0,24,1.2,14.6,0
 208,Dwayne Harris,DAL,25,16,0,31,17,222,13.1,1,36,1.1,13.9,1
 209,Will Heller,DET,31,16,5,23,17,150,8.8,1,19,1.1,9.4,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 210,Jeff King,ARI,29,16,12,29,17,129,7.6,0,27,1.1,8.1,0
 211,Mohamed Massaquoi,CLE,26,9,5,33,17,254,14.9,0,54,1.9,28.2,0
 212,Bilal Powell,NYJ,24,14,2,36,17,140,8.2,0,16,1.2,10.0,0
@@ -246,7 +239,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 237,Bryce Brown,PHI,21,16,4,19,13,56,4.3,0,11,0.8,3.5,4
 238,Jordan Norwood,CLE,26,2,0,19,13,137,10.5,0,27,6.5,68.5,0
 239,Michael Robinson,SEA,29,16,6,15,13,126,9.7,2,20,0.8,7.9,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 240,Alex Smith,CLE,30,12,2,18,13,47,3.6,0,17,1.1,3.9,0
 241,Brandon Tate,CIN,25,16,3,25,13,211,16.2,1,44,0.8,13.2,4
 242,Lawrence Vickers,DAL,29,16,6,15,13,104,8.0,0,17,0.8,6.5,0
@@ -277,7 +269,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 267,Kevin Smith,DET,26,13,2,16,10,79,7.9,1,13,0.8,6.1,0
 268,Matt Willis,DEN,28,15,0,22,10,90,9.0,0,19,0.7,6.0,0
 269,Donald Brown,IND,25,10,4,13,9,93,10.3,0,39,0.9,9.3,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 270,Michael Bush,CHI,28,13,1,11,9,83,9.2,0,18,0.7,6.4,1
 271,Dorin Dickerson,BUF,24,12,0,15,9,117,13.0,0,24,0.8,9.8,1
 272,Kendall Hunter,SFO,24,11,0,12,9,60,6.7,0,12,0.8,5.5,1
@@ -308,7 +299,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 297,Josh Cribbs*,CLE,29,16,2,11,7,63,9.0,0,24,0.4,3.9,6
 298,Tandon Doss,BAL,23,14,0,17,7,123,17.6,1,39,0.5,8.8,0
 299,Rhett Ellison,MIN,24,16,7,9,7,65,9.3,0,29,0.4,4.1,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 300,Stanley Havili,PHI,25,15,2,12,7,43,6.1,0,9,0.5,2.9,0
 301,Roy Helu,WAS,24,3,0,7,7,45,6.4,0,21,2.3,15.0,0
 302,Jalen Parmele,JAX,27,11,2,9,7,60,8.6,0,26,0.6,5.5,0
@@ -339,7 +329,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 327,Lavelle Hawkins,TEN,26,7,1,11,5,62,12.4,0,42,0.7,8.9,0
 328,Michael Hoomanawanui,NWE,24,14,6,7,5,109,21.8,0,41,0.4,7.8,0
 329,Quinn Johnson,TEN,26,16,8,8,5,40,8.0,0,17,0.3,2.5,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 330,Steve Maneri,KAN,24,13,8,12,5,51,10.2,0,19,0.4,3.9,0
 331,Jamar Newsome,KAN,25,6,2,16,5,73,14.6,0,28,0.8,12.2,0
 332,Michael Preston,TEN,23,4,0,6,5,59,11.8,0,21,1.3,14.8,0
@@ -370,7 +359,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 357,Phillip Tanner,DAL,24,14,0,5,4,41,10.3,0,15,0.3,2.9,0
 358,Leon Washington*,SEA,30,16,0,8,4,31,7.8,0,9,0.3,1.9,2
 359,David Wilson,NYG,21,16,2,9,4,34,8.5,1,15,0.3,2.1,1
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 360,Seyi Ajirotutu,SDG,25,3,1,4,3,45,15.0,0,28,1.0,15.0,0
 361,Anthony Armstrong,2TM,29,6,0,,3,12,4.0,0,9,0.5,2.0,0
 362,Kevin Boss,KAN,28,2,2,3,3,65,21.7,1,29,1.5,32.5,0
@@ -401,7 +389,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 387,Cyrus Gray,KAN,23,10,0,3,2,18,9.0,0,12,0.2,1.8,0
 388,Jonathan Grimes,3TM,23,11,2,,2,7,3.5,0,4,0.2,0.6,0
 389,Montario Hardesty,CLE,25,14,1,5,2,16,8.0,0,9,0.1,1.1,2
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 390,DuJuan Harris,GNB,24,4,2,2,2,17,8.5,0,11,0.5,4.3,0
 391,Ben Hartsock,CAR,32,15,5,3,2,30,15.0,0,25,0.1,2.0,0
 392,Jason Hill,NYJ,27,4,0,3,2,15,7.5,1,10,0.5,3.8,0
@@ -432,7 +419,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 417,Austin Collie,IND,27,1,0,1,1,6,6.0,0,6,1.0,6.0,0
 418,Chris Cooley,WAS,30,9,2,3,1,8,8.0,0,8,0.1,0.9,0
 419,Antonio Cromartie*,NYJ,28,16,16,3,1,-2,-2.0,0,-2,0.1,-0.1,0
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 420,Nate Eachus,KAN,22,11,2,3,1,19,19.0,0,19,0.1,1.7,0
 421,Dedrick Epps,NYJ,24,3,0,1,1,9,9.0,0,9,0.3,3.0,1
 422,Tommy Gallarda,ATL,24,9,0,4,1,7,7.0,0,7,0.1,0.8,0
@@ -463,7 +449,6 @@ Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 447,Allen Reisner,2TM,24,6,2,,1,13,13.0,0,13,0.2,2.2,0
 448,Courtney Roby,NOR,29,13,0,2,1,9,9.0,0,9,0.1,0.7,0
 449,Aaron Rodgers*,GNB,29,16,16,1,1,-1,-1.0,0,-1,0.1,-0.1,5
-Rk,Player,Tm,Age,G,GS,Tgt,Rec,Yds,Y/R,TD,Lng,R/G,Y/G,Fmb
 450,Tony Romo,DAL,32,16,16,1,1,-1,-1.0,0,-1,0.1,-0.1,6
 451,Dane Sanzenbacher,2TM,24,7,2,,1,7,7.0,0,7,0.1,1.0,0
 452,Matt Schaub*,HOU,31,16,16,1,1,-6,-6.0,0,-6,0.1,-0.4,4
